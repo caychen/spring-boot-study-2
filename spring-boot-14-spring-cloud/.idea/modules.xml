@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-server/spring-boot-eureka-server.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-server/spring-boot-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-ticket-consumer/spring-boot-eureka-ticket-consumer.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-ticket-consumer/spring-boot-eureka-ticket-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-ticket-provider/spring-boot-eureka-ticket-provider.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-ticket-provider/spring-boot-eureka-ticket-provider.iml" />
+    </modules>
+  </component>
+</project>
